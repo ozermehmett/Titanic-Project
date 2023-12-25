@@ -1,5 +1,5 @@
 # Titanic-Project
-![Kaggle](https://www.kaggle.com/code/ozermehmet/ozermehmet-titanic-eda)
+[Kaggle](https://www.kaggle.com/code/ozermehmet/ozermehmet-titanic-eda)
 The purpose of the project is to predict the survival rates of passengers on the Titanic ship. 
 For this purpose, a machine learning model has been created by utilizing information such as passengers,
 age, gender, class, and other characteristics.
